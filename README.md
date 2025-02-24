@@ -25,6 +25,9 @@ Todas las pruebas pueden ser ejecutadas en vivo en: 🔗 [**https://dev.tonihack
 │   │   ├── assets
 │   │   ├── README.md
 │   │   ├── Dockerfile # Aquí puedes ver los pasos que he realizado para la implementación.
+│   ├── RA3_5   # Práctica Extra 5: Protección Avanzada con doble WAF DNS (Cloudflare + Imperva)
+│   │   ├── assets
+│   │   ├── README.md
 ├── README.md  # Este archivo principal
 ```
 
