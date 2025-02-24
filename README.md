@@ -10,17 +10,21 @@ Todas las pruebas pueden ser ejecutadas en vivo en: 🔗 [**https://dev.tonihack
 .
 ├── RA3
 │   ├── RA3_1   # Práctica 1 - Content Security Policy (CSP)
-│   │   ├── asset
+│   │   ├── assets
 │   │   ├── README.md
+│   │   ├── Dockerfile # Aquí puedes ver los pasos que he realizado para la implementación.
 │   ├── RA3_2   # Práctica 2 - Web Application Firewall (WAF)
-│   │   ├── asset
+│   │   ├── assets
 │   │   ├── README.md
+│   │   ├── Dockerfile # Aquí puedes ver los pasos que he realizado para la implementación.
 │   ├── RA3_3   # Práctica 3 - Reglas OWASP para ModSecurity
-│   │   ├── asset
+│   │   ├── assets
 │   │   ├── README.md
+│   │   ├── Dockerfile # Aquí puedes ver los pasos que he realizado para la implementación.
 │   ├── RA3_4   # Práctica 4 - Protección contra ataques DoS
-│   │   ├── asset
+│   │   ├── assets
 │   │   ├── README.md
+│   │   ├── Dockerfile # Aquí puedes ver los pasos que he realizado para la implementación.
 ├── README.md  # Este archivo principal
 ```
 
