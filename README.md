@@ -37,6 +37,8 @@ Puedes probar todas las configuraciones en vivo desde: 🔗 [**https://dev.tonih
 
 Cada una de las prácticas tiene un contenedor Docker específico que se está ejecutando en el servidor.
 
+![Web](https://i.imgur.com/jsUPldG.png)
+
 ## 🐳 Imágenes Docker
 
 Las imágenes Docker de cada práctica están disponibles en Docker Hub:
