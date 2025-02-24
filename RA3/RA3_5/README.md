@@ -1,4 +1,4 @@
-# 🔥 Práctica 5: Protección Avanzada con WAF DNS (Cloudflare + Imperva) 🔥
+# 🔥 Práctica Extra 5: Protección Avanzada con WAF DNS (Cloudflare + Imperva) 🔥
 
 ## 🚀 **Objetivo**
 En esta práctica hemos implementado una protección **ultra avanzada** para nuestro servidor mediante la combinación de **dos de los mejores Web Application Firewalls (WAFs) DNS del mercado: Cloudflare e Imperva**. Con esta configuración, conseguimos un **doble blindaje** ante ataques web, asegurando que solo tráfico legítimo llegue a nuestro servidor.
